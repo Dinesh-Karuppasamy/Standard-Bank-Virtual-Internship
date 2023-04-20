@@ -48,7 +48,7 @@ As a data scientist, we will be required to present your findings. This tests ju
 ![image](https://user-images.githubusercontent.com/131190846/233275235-1946d656-5c35-4c9a-9fdc-d7a75f9bcb14.png)
 
 
-## ♦ Task 4 - Putting It All Together
+## Task 4 - Putting It All Together
 Presenting our insights to a non-technical audience
 
 In this task,  we will prepare to present our findings. we will be presenting to the manager of the home loans department and also your manager and team by video presentation outlining our findings from the previous task.
